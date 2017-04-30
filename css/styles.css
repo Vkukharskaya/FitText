@@ -1,0 +1,17 @@
+/* Styling */
+body {
+    background: rgba(0, 240, 194, 0.71);
+}
+
+
+
+h2 {
+  font-family: arial;
+  color: #a10022;
+  font-size: 6em;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+  text-align: center;
+  
+}
+
